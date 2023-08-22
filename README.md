@@ -4,7 +4,7 @@ on Amazon EC2 with Amazon EFS as file storage. This script is used on [LKS Cloud
 as High School / Vocational School cloud computing competition in Indonesia.
 
 # Usage
-Enter this script when you launch an EC2 instance or EC2 Launch Templates.
+Enter this script when you create an EC2 instance or EC2 Launch Templates.
 
 # Contributor
 Anggit M Ginanjar - <anggit.ginanjar.dev@gmail.com>
